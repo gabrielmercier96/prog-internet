@@ -1,0 +1,61 @@
+#top {background-color:gray;
+height:200px;
+float:top
+}
+
+#audi1 {height:100%;
+float:right
+}
+
+#left {background-color:rgb(200,200,200);
+width:30%;
+height:1000px;
+float:left
+
+}
+
+#right {background-color:rgb(160,168,185);
+width:70%;
+height:1000px;
+float:left
+}
+
+
+
+#r8 {height:30%;
+}
+
+#top2 {background-color:rgb(100,0,0);
+height:200px
+}
+
+#audi2 {height:100%;
+float:right
+}
+
+#left2 {background-color:rgb(200,200,200);
+width:200px;
+height:1000px;
+float:left
+}
+
+#right2 {background-color:rgb(160,168,185);
+width:1300px;
+height:1000px;
+float:left
+}
+
+
+
+#r82 {width:100%;
+position:relative;
+
+}
+
+
+
+h1 {color:blue;
+text-align:center;
+text-decoration:underline
+}
+
